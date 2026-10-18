@@ -1,0 +1,195 @@
+{
+  "sourceName": "Bodily Oddities",
+  "sourceUrl": "https://bodilyoddities.com/",
+  "topicCount": 164,
+  "regions": [
+    {
+      "id": "brain",
+      "label": "Brain",
+      "count": 57
+    },
+    {
+      "id": "nerves",
+      "label": "Nerves",
+      "count": 29
+    },
+    {
+      "id": "eyes",
+      "label": "Eyes",
+      "count": 43
+    },
+    {
+      "id": "ears",
+      "label": "Ears",
+      "count": 19
+    },
+    {
+      "id": "nose",
+      "label": "Nose",
+      "count": 7
+    },
+    {
+      "id": "mouth-throat",
+      "label": "Mouth and throat",
+      "count": 21
+    },
+    {
+      "id": "skin-hair",
+      "label": "Skin and hair",
+      "count": 18
+    },
+    {
+      "id": "muscle",
+      "label": "Muscle",
+      "count": 31
+    },
+    {
+      "id": "bone-joint",
+      "label": "Bones and joints",
+      "count": 15
+    },
+    {
+      "id": "organs",
+      "label": "Internal organs",
+      "count": 11
+    },
+    {
+      "id": "heart-blood",
+      "label": "Heart and blood",
+      "count": 12
+    },
+    {
+      "id": "whole-body",
+      "label": "Whole body",
+      "count": 12
+    }
+  ],
+  "kinds": [
+    {
+      "id": "trick",
+      "label": "Trick",
+      "count": 29
+    },
+    {
+      "id": "involuntary",
+      "label": "Involuntary",
+      "count": 36
+    },
+    {
+      "id": "perception",
+      "label": "Perception",
+      "count": 29
+    },
+    {
+      "id": "sound",
+      "label": "Sound",
+      "count": 9
+    },
+    {
+      "id": "variation",
+      "label": "Variation",
+      "count": 30
+    },
+    {
+      "id": "reflex",
+      "label": "Reflex",
+      "count": 21
+    },
+    {
+      "id": "rare-ability",
+      "label": "Rare ability",
+      "count": 10
+    }
+  ],
+  "tags": [
+    {
+      "id": "spiritual",
+      "label": "Spiritual",
+      "count": 5
+    },
+    {
+      "id": "icky",
+      "label": "Icky",
+      "count": 6
+    },
+    {
+      "id": "not-an-emergency",
+      "label": "Not an emergency",
+      "count": 26
+    },
+    {
+      "id": "get-it-checked",
+      "label": "Get it checked",
+      "count": 20
+    },
+    {
+      "id": "try-it",
+      "label": "Try it",
+      "count": 78
+    },
+    {
+      "id": "learnable",
+      "label": "Learnable",
+      "count": 19
+    },
+    {
+      "id": "party-trick",
+      "label": "Party trick",
+      "count": 20
+    },
+    {
+      "id": "vestigial",
+      "label": "Vestigial",
+      "count": 7
+    },
+    {
+      "id": "genetic",
+      "label": "Genetic",
+      "count": 41
+    },
+    {
+      "id": "sleep",
+      "label": "Sleep",
+      "count": 10
+    },
+    {
+      "id": "illusion",
+      "label": "Illusion",
+      "count": 23
+    },
+    {
+      "id": "childhood",
+      "label": "Childhood",
+      "count": 10
+    },
+    {
+      "id": "debunked-myth",
+      "label": "Debunked myth",
+      "count": 14
+    },
+    {
+      "id": "community",
+      "label": "Community",
+      "count": 18
+    },
+    {
+      "id": "famous-people",
+      "label": "Famous people",
+      "count": 15
+    },
+    {
+      "id": "record",
+      "label": "Record",
+      "count": 8
+    }
+  ],
+  "license": "No explicit public reuse license found. Article prose and artwork have not been reproduced. This edition provides short independently worded topic summaries with attribution and links.",
+  "attribution": "Topic selection and research references: Bodily Oddities, created by Demjan Vester. Summaries and interface are an independent reinterpretation, with links to the original entries and their cited reading.",
+  "authorName": "Demjan Vester",
+  "authorUrl": "https://vester.si/",
+  "retrievedAt": "2026-10-18",
+  "sitemapUrl": "https://bodilyoddities.com/sitemap-0.xml",
+  "coverageNote": "All 164 topic URLs in the public sitemap are included. The source index count was temporarily 162 while its homepage and sitemap showed 164.",
+  "summaryNote": "Prevalence wording and source classifications come from the linked catalog. Short explanations are paraphrased; uncertainty and safety qualifications are retained. Linked research references have not each been independently re-reviewed.",
+  "medicalNote": "For curiosity and learning. This guide does not diagnose symptoms or replace professional care. New, severe or persistent symptoms need appropriate medical attention."
+}
